@@ -1,4 +1,4 @@
-# This is a personal project of the Breaking Bad API :muscle:.
+# This is a personal project of the Breaking Bad API :muscle:
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/1TATO/breaking-bad-api?color=%2304D361">
@@ -19,6 +19,12 @@
   
   <img alt="Password generator" src="https://github.com/1TATO/breaking-bad-api/blob/master/.github/breaking-bad2.png" height="400px"  />
 </p>
+
+# Technologies
+* Axios
+* React
+* ESlint
+* Prettier
 
 
 ## :memo: Licença
